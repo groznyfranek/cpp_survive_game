@@ -1,0 +1,101 @@
+﻿  main.cpp
+C:\Users\Użytkownik\Desktop\Project1\Project1\classBall.h(32,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classBall.h(33,22): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classBall.h(42,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\classWall.h(21,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classWall.h(21,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classWall.h(21,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classWall.h(21,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\classLabel.h(39,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\classLabel.h(40,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\classLabel.h(77,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(27,82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(27,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(27,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(27,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(40,36): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(45,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(50,36): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(55,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(71,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(78,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(85,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\figure.h(92,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\Game.h(59,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Użytkownik\Desktop\Project1\Project1\Game.h(100,22): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\Game.h(100,19): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\Game.h(105,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\Project1\Project1\Game.h(106,31): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> C:\Users\Użytkownik\Desktop\Project1\x64\Debug\Project1.exe
