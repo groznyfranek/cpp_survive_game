@@ -22,10 +22,10 @@ class Game
 public:
 	int level;
 	std::vector<Ball*> table;
-    Wall* wall;
-    Label* label;
-    Figure* character;
-    sf::RenderWindow* window;
+    	Wall* wall;
+    	Label* label;
+    	Figure* character;
+    	sf::RenderWindow* window;
 	sf::Image* icon;
 	Game()
 	{
